@@ -1,0 +1,62 @@
+﻿'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Project\Mario OGL Level Editir\Debug\Mario OGL Level Editir.exe'. Symbols loaded.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\kernel32.dll'
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glut32.dll'. Module was built without symbols.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\winmmbase.dll'
+'Mario OGL Level Editir.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\winmmbase.dll'
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ig7icd32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\igdusc32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wtsapi32.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\version.dll'
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\usermgrcli.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. Cannot find or open the PDB file.
+'Mario OGL Level Editir.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\WinTypes.dll'
+The thread 0x2ac has exited with code 0 (0x0).
+The thread 0x470 has exited with code 0 (0x0).
+The thread 0x2470 has exited with code 0 (0x0).
+The thread 0x1f20 has exited with code 0 (0x0).
+The thread 0x244 has exited with code 0 (0x0).
+The thread 0x21a0 has exited with code 0 (0x0).
+The thread 0x2094 has exited with code 0 (0x0).
+The program '[6060] Mario OGL Level Editir.exe' has exited with code 0 (0x0).

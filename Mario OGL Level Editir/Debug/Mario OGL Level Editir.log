@@ -1,0 +1,7 @@
+﻿  Mario OGL Level Editir.cpp
+c:\project\mario ogl level editir\mario ogl level editir\mario ogl level editir.cpp(88): warning C4101: 'j': unreferenced local variable
+c:\project\mario ogl level editir\mario ogl level editir\mario ogl level editir.cpp(88): warning C4101: 'i': unreferenced local variable
+c:\project\mario ogl level editir\mario ogl level editir\mario ogl level editir.cpp(547): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+c:\project\mario ogl level editir\mario ogl level editir\mario ogl level editir.cpp(1041): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+  Mario OGL Level Editir.vcxproj -> C:\Project\Mario OGL Level Editir\Debug\Mario OGL Level Editir.exe
+  Mario OGL Level Editir.vcxproj -> C:\Project\Mario OGL Level Editir\Debug\Mario OGL Level Editir.pdb (Partial PDB)
