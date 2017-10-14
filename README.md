@@ -1,3 +1,3 @@
 # Mario-OGL-Editor
 Editor to mario-OGL
-VS 2017
+Visual Studio 2017
